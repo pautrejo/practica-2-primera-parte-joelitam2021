@@ -16,5 +16,5 @@ setuptools.setup(
     install_requires=[
         'numpy>=1.19.2'
         ],
-    python_requires=">=3.6.9",
+    python_requires=">=3.7.12",
 )
