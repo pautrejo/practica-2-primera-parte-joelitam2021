@@ -38,4 +38,4 @@ jobs:
           file: dockerfiles/pkg/Dockerfile #path in repo to Dockerfile
           platforms: linux/amd64
           push: true
-          tags: 4id3jgc/docker_practica2_parte1:0.1
+          tags: joelitam2021/pkg_practica2_parte1:0.1
