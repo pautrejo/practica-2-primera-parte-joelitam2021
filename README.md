@@ -22,6 +22,9 @@
 ### Individual
 
 
+# Documentación
+
+ [online doc](https://optimizacion-2-2022-gh-classroom.github.io/practica-2-primera-parte-joelitam2021/)
 
 
 # Descripción de archivos:
