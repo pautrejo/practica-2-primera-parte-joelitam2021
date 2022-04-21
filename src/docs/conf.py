@@ -16,9 +16,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '"opt2"'
-copyright = '2021, "itam"'
-author = '"itam"'
+project = '"Bellman Ford"'
+copyright = '2022. Paulina, Aide, Joel, Enrique'
+author = 'Paulina, Aide, Joel, Enrique'
 master_doc = 'index'
 add_module_names = False
 # The full version, including alpha/beta/rc tags
