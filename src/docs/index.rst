@@ -81,12 +81,6 @@ Function
       G = nx.DiGraph()
       G.add_weighted_edges_from(edges)
 
-
-.. figure:: graph.png
-   :scale: 50 %
-
-.. code-block::
-
       #Apply BF algorithm
       bf_negative_cycle(G)
 
@@ -95,9 +89,6 @@ The output of the program is:
 .. code-block::
 
        [5, 6, 5]
-
-.. figure:: bf.png
-   :scale: 50 %
 
 
 Installation
