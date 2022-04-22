@@ -1,4 +1,4 @@
-.. currentmodule:: opt2
+.. currentmodule:: bellman_ford
 
 *********
 Functions
