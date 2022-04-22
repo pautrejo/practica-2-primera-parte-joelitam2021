@@ -31,7 +31,7 @@ By doing this repeatedly for all vertices, we can guarantee that the result is *
 
 
 Bellman Ford Pseudocode [`reference <https://www.programiz.com/dsa/bellman-ford-algorithm>`_]
-------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 We need to maintain the path distance of every vertex. We can store that in an array of size v, where v is the number of vertices.
 
 We also want to be able to get the shortest path, not only know the length of the shortest path. For this, we map each vertex to the vertex that last updated its path length.
