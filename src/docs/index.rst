@@ -17,7 +17,7 @@ Welcome to Bellman Ford Method's documentation!
 The Bellman-Ford algorithm provides the shortest distance from a prespecified origin node to all other nodes in the graph (weighted digraph). It is able to handle graphs where some of the edge weights are negative numbers. The based idea is: show if there is a negative cycle, generate a negative cycle and always find a negative cycle (if there is one) even if the graph is not connected.
 
 Bellman Ford's Algorithm Applications
-------------
+------------------------------------
 
 1. For calculating shortest paths in routing algorithms
 2. For finding the shortest path
