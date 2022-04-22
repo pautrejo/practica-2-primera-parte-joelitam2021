@@ -1,13 +1,15 @@
-import setuptools
+#see: https://setuptools.readthedocs.io/en/latest/userguide/package_discovery.html
+from setuptools import setup, find_packages
 
-setuptools.setup(
-    name="bellman_ford",
-    version="0.0.1",
-    author="Equipo",
-    description="Método numérico que resuelva problemas de optimización convexa de pequeña escala.",
-    packages=setuptools.find_packages(),
-    install_requires=[
-        'numpy>=1.19.2'
-        ],
-    python_requires=">=3.7.3",
-)
+setup(name="opt2",
+      version="0.1",
+      description=u"Small package for example",
+      url="",
+      author="itam",
+      author_email="",
+      license="MIT",
+      packages=find_packages(),
+      install_requires = [
+                          "numpy",
+                          ],
+      )
