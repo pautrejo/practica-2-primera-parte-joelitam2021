@@ -101,7 +101,7 @@ The output of the program is:
 
 
 Installation
-----------
+------------
 To install bellman_ford, simply run: 
 
 
