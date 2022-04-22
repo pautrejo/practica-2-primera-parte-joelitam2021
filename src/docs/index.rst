@@ -61,7 +61,7 @@ Once the algorithm is over, we can backtrack from the destination vertex to the 
 
 
 Function
-------------
+----------
 
 .. autosummary::
    :toctree: _autosummary
